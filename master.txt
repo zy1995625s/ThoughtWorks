@@ -1,1 +1,2 @@
-Hello! Master.txt, this is my first to visit you!
+Hello! Master.txt, this is my first time to visit you!
+Hello! Master.txt, this is my second time to visit you!
